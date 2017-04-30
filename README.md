@@ -14,6 +14,7 @@ In this assignment you will learn how to edit webpages. You will update the webp
 1. Put the `index.html` file back into edit mode, and make it unique. Commit early and commit often! Your updated file must have:
    - instructions for how to interact with your lightning sketch (see the student examples on the Lightning repo)
    - some interesting facts about lightning
+   - unique text and background coloring
    - replacements for all the REPLACE ME text 
    - a total of at least three headlines
    - at least one pair of paragraph tags
