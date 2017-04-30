@@ -22,4 +22,4 @@ In this assignment you will learn how to edit webpages. You will update the webp
    - _DISTINGUISHED_:
       - some interesting facts about lightning
       - at least one pair of list tags (you choose: ordered or unordered), having at least three list items
-1. Submit your assignment. ([How? Click here.](https://woodstockcs.github.io/HowToSubmit))
+1. Submit your assignment. ([How? Click here.](https://woodstockcs.github.io/ClassLogistics))
