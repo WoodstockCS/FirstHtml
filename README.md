@@ -2,7 +2,7 @@
 ### purpose
 In this assignment you will learn how to edit webpages. You will update the webpage for one of your previous assignments.
 ### steps
-1. You do _not_ need to fork this repo.
+1. You do *not* need to fork this repo.
 1. Log in at [khanacademy.org](https://www.khanacademy.org) (or create an account if you don't already have one!)
 1. Go to the coaches tab in your profile.
 1. In the `Add a coach` field, enter the class code:
@@ -13,10 +13,12 @@ In this assignment you will learn how to edit webpages. You will update the webp
 1. Replace the existing code with [the code here](https://raw.githubusercontent.com/WoodstockCS/Lightning/gh-pages/index.html), and commit the changes.
 1. Put the `index.html` file back into edit mode, and make it unique. Commit early and commit often! Your updated file must have:
    - instructions for how to interact with your lightning sketch (see the student examples on the Lightning repo)
-   - some interesting facts about lightning
    - unique text and background coloring
    - replacements for all the REPLACE ME text 
-   - a total of at least three headlines
+   - add at least one new headline (other than h1)
    - at least one pair of paragraph tags
-   - at least one pair of list tags (you choose: ordered or unordered), having at least three list items
+   - at least one pair of strong or em tags in the paragraph text
+   - _DISTINGUISHED_:
+      - some interesting facts about lightning
+      - at least one pair of list tags (you choose: ordered or unordered), having at least three list items
 1. Submit your assignment. ([How? Click here.](https://woodstockcs.github.io/HowToSubmit))
