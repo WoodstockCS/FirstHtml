@@ -8,7 +8,7 @@ In this assignment you will learn how to edit webpages. You will update the webp
 1. In the `Add a coach` field, enter the class code:
    - B block: `8BR5J8`
    - H block: `XGMT2S`
-1. Follow the [Hour Of Webpages course](https://lol.khanacademy.org/computing/hour-of-code/hour-of-html/v/making-webpages-intro)
+1. Follow the `Hour Of Webpages` mission.
 1. Go to your lightning repo and put the `index.html` file in edit mode.
 1. Replace the existing code with [the code here](https://raw.githubusercontent.com/WoodstockCS/Lightning/gh-pages/index.html), and commit the changes.
 1. Put the `index.html` file back into edit mode, and make it unique. Commit early and commit often! Your updated file must have:
