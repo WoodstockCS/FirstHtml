@@ -3,11 +3,11 @@
 In this assignment you will learn how to edit webpages. You will update the webpage for one of your previous assignments.
 ### steps
 1. You do _not_ need to fork this repo.
-1. Log in at khanacademy.org (or create an account if you don't already have one!)
+1. Log in at [khanacademy.org](https://www.khanacademy.org) (or create an account if you don't already have one!)
 1. Go to the coaches tab in your profile.
-1. In the "Add a coach" field, enter the class code:
-   - B block: ......
-   - H block: XGMT2S
+1. In the `Add a coach` field, enter the class code:
+   - B block: `8BR5J8`
+   - H block: `XGMT2S`
 1. Follow the [Hour Of Webpages course](https://lol.khanacademy.org/computing/hour-of-code/hour-of-html/v/making-webpages-intro)
 1. Go to your lightning repo and put the `index.html` file in edit mode.
 1. Replace the existing code with [the code here](https://raw.githubusercontent.com/WoodstockCS/Lightning/gh-pages/index.html), and commit the changes.
